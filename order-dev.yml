@@ -17,4 +17,4 @@ PRODUCT:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.BestAvailableRule
 boy:
   name: kolo
-  age: 66
+  age: 123
