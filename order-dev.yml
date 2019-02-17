@@ -16,5 +16,5 @@ PRODUCT:
   Ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.BestAvailableRule
 boy:
-  name: kolo
-  age: 100
+  name: tutu
+  age: 18
