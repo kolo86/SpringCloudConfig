@@ -15,3 +15,6 @@ server:
 PRODUCT:
   Ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.BestAvailableRule
+boy:
+  name: kolo
+  age: 18
