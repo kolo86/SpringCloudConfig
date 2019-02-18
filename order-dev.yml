@@ -1,5 +1,5 @@
 env:
-  dev222
+  dev
 spring:
   application:
     name: order
@@ -16,5 +16,5 @@ PRODUCT:
   Ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.BestAvailableRule
 boy:
-  name: kolo222
-  age: 18222
+  name: kolo
+  age: 18
