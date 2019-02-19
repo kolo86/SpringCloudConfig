@@ -11,7 +11,7 @@ spring:
   jpa:
     show-sql: true
 server:
-  port: 8763
+  port: 8765
 PRODUCT:
   Ribbon:
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.BestAvailableRule
