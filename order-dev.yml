@@ -21,3 +21,5 @@ PRODUCT:
 boy:
   name: kolo
   age: 18
+server:
+  port: 8082
