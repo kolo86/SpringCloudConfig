@@ -5,4 +5,3 @@ zuul:
     productRule:
       path: /product/**
       serviceId: product
-#   sensitive-headers:
