@@ -4,5 +4,8 @@ zuul:
     productRule:
       path: /product/**
       serviceId: product
+    orderRule:
+      path: /order/**
+      serviceId: order
 server:
   port: 8083
