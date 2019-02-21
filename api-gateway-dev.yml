@@ -1,11 +1,2 @@
-zuul:
-  sensitive-headers:
-  routes:             #设置服务节点的匹配规则
-    productRule:
-      path: /product/**
-      serviceId: product
-    orderRule:
-      path: /order/**
-      serviceId: order
 server:
   port: 8083
