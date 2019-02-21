@@ -1,6 +1,6 @@
 server:
   port: 8006
-spring.
+spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
     username: root
