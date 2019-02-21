@@ -1,2 +1,8 @@
+zuul:
+  sensitive-headers:
+  routes:             #设置服务节点的匹配规则
+    productRule:
+      path: /product/**
+      serviceId: product
 server:
   port: 8083
